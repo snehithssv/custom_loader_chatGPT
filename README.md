@@ -1,3 +1,3 @@
-# loader_animate
+# chatGPT app Loader replica
 
-A new Flutter project.
+A flutter project replicating CHATGPT app microphone loader. 
